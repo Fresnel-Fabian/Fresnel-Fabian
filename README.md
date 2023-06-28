@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning machine learning
-- - 📫 How to reach me: fresnelfabian@gmail.com
+- 📫 How to reach me: fresnelfabian@gmail.com
 <!--
 **Fresnel-Fabian/Fresnel-Fabian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
